@@ -4,8 +4,9 @@ def add:
 #Adding subtract implementation
 def subtract:
 	pass
-#multiply
+#multiply implementation    
 def multiply:
 	pass
+#divide implementation
 def divide:
 	pass
